@@ -1,2 +1,2 @@
-# Text-Generation-LSTM-RNN-BBC-News-data
-News-Text-generation
+# Text-Classification-LSTM-RNN-BBC-News-data
+News-Text-classification
